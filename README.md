@@ -1,4 +1,4 @@
-# 🐝 Bhromor – Smart Information Chatbot
+#  Bhromor – Smart Information Chatbot
 
 **Bhromor** is a modern chatbot web app that provides smart, contextual answers using advanced AI language models through [OpenRouter.ai](https://openrouter.ai). It's built with **React**, **Node.js**, and integrates large language models (LLMs) like GPT-3.5, Claude, or Mixtral to deliver fast and intelligent responses.
 
@@ -6,25 +6,25 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🤖 **Chat Interface** – Clean, user-friendly chat UI with smooth interactions
-- 🔍 **Web Search Integration** – Combines AI with Google Custom Search (optional)
-- 🧠 **Powered by OpenRouter** – Choose from multiple LLMs like GPT-3.5, Claude, or Mixtral
-- 💬 **Multi-turn Conversations** – Keeps chat context during the session
-- 🗂️ **Chat History** – Navigate and review previous conversations
-- 🌙 **Dark-Themed UI** – Inspired by modern chatbots like ChatGPT
-- 🔐 **Secure Backend** – Express.js server for handling AI requests securely
+-  **Chat Interface** – Clean, user-friendly chat UI with smooth interactions
+-  **Web Search Integration** – Combines AI with Google Custom Search (optional)
+-  **Powered by OpenRouter** – Choose from multiple LLMs like GPT-3.5, Claude, or Mixtral
+-  **Multi-turn Conversations** – Keeps chat context during the session
+-  **Chat History** – Navigate and review previous conversations
+-  **Dark-Themed UI** – Inspired by modern chatbots like ChatGPT
+-  **Secure Backend** – Express.js server for handling AI requests securely
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Bhromor Chat UI](./preview.png)
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 **Frontend**:
 - React
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 
@@ -84,7 +84,7 @@ npm start
 
 ---
 
-## 🧠 Customizing AI Model
+##  Customizing AI Model
 
 You can easily swap models from the following (via OpenRouter):
 - `deepseek/deepseek-r1-free`
@@ -98,7 +98,7 @@ Just update the model string in the backend code.
 ---
 
 
-## 🙌 Credits
+##  Credits
 
 - [OpenRouter.ai](https://openrouter.ai)
 
